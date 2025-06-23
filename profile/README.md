@@ -16,13 +16,13 @@ Anysimyst merges magic and machinery to simplify operations. Our goals:
 
 We welcome contributions!
 
-- Read our [CONTRIBUTING.md](CONTRIBUTING.md) for the process
-- Follow the [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
-- Report vulnerabilities via our [Security Policy](SECURITY.md)
+- Read our [CONTRIBUTING.md](../CONTRIBUTING.md) for the process
+- Follow the [CODE_OF_CONDUCT](../CODE_OF_CONDUCT.md)
+- Report vulnerabilities via our [Security Policy](../SECURITY.md)
 
 ## ⚖️ License
 
-All projects use the MIT License. See [License](LICENSE.md) for details.
+All projects use the MIT License. See [License](../LICENSE.md) for details.
 
 ---
 
